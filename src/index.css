@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #f5efe6;
+  color: #2f241d;
+  font-family: "Inter", sans-serif;
+}
+
+.serif {
+  font-family: "Cormorant Garamond", serif;
+}
